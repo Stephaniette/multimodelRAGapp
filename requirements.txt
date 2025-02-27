@@ -1,6 +1,7 @@
 streamlit
 langchain
 langchain-community
+langchain-anthropic
 chromadb
 sentence-transformers
 pypdf
