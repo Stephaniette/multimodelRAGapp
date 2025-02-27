@@ -1,0 +1,12 @@
+streamlit
+langchain
+chromadb
+sentence-transformers
+pypdf
+youtube-transcript-api
+unstructured
+validators
+python-dotenv
+openai
+anthropic
+huggingface_hub
